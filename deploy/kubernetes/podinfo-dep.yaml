@@ -14,4 +14,4 @@ spec:
       - name: hello-world
         image: mareimorsy/hello-world:1.0
         ports:
-        - containerPort: 3000
+        - containerPort: 8080
